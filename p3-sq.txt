@@ -1,0 +1,9 @@
+intro to git --
+
+-------
+SCM
+vcs
+types of vcss
+>cvcs
+>dcvs
+-----
